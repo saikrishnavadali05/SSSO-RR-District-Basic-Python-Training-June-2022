@@ -6,6 +6,9 @@
 	d) All the 4 numbers should be taken up with input() method.
 	e) If no even number is there among the 4 numbers, it should throw relevant message to the user.
 	f) Save the program output into a text file output.txt  
+
+
+ 
 a=25
 b=34
 c=38
