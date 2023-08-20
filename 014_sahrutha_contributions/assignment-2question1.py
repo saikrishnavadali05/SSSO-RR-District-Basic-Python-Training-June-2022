@@ -1,5 +1,7 @@
 # Write a program to print the add, subtract, divide, multiply, of the digits using functions. Add, subtract, divide, multiply functions should be created. For example, if the input is 235, the result should be 10. Next, Load the input number 235 from a text file input.txt. Next, Save the program output into a text file output.txt.
 
+
+
 def add1(num):
     sum = 0
     while num:
