@@ -22,3 +22,8 @@ if(s[0]=='m'):
 else:
     from add import ad
     ad(l)
+
+
+
+
+
