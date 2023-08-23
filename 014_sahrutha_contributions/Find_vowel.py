@@ -5,3 +5,4 @@ if letter=char:
      print ("vowel")
 else:
      print ("consonant")
+
