@@ -6,4 +6,6 @@ print(max(a,b))
 print(min(a,b))
 print(c/2)
 print(c)
+
+
 print(d)
