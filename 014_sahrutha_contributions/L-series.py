@@ -7,4 +7,5 @@ for i in range(n):
      s=a+b
      print(s)
      a=b
+     
      b=s
