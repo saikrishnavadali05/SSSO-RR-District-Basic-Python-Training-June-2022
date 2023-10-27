@@ -2,6 +2,8 @@ from datetime import date
 d=list(map(int,input("Enter your date dd-mm-yyyy:").split("-")))
 d1=date(d[2],d[1],d[0])
 d2=date(2022,11,23)
+
+
 if(d1>d2):
     print("Date must be less than 23-11-2022")
 
