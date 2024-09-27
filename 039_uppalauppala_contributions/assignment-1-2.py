@@ -1,5 +1,3 @@
-Write a program to print all the alternative elements of a tuple. The elements to the tuple have to be given to the program using input() function.
-ans:
 
 tup = eval(input("Enter input for tuple:"))
 tup2 = ()
